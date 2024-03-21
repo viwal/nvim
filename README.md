@@ -1,5 +1,8 @@
 # NVIM configuration step by step
 
+This config aims to have simple, yet effective editor to code (mostly Python, Golang)
+
+
 ## Basics
 1. Install Nvim `brew install nvim`
 2. Clone this repo into `~/.config/nvim` folder
