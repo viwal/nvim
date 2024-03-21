@@ -34,3 +34,10 @@
 ### Lua line
 *https://github.com/nvim-lualine/lualine.nvim*
 
+### LSP
+
+#### Mason *https://github.com/williamboman/mason.nvim*
+
+#### Mason LSP Config *https://github.com/williamboman/mason-lspconfig.nvim*
+
+#### Nvim LSP Config *https://github.com/neovim/nvim-lspconfig*

@@ -1,6 +1,6 @@
 -- https://github.com/rose-pine/neovim
 return {
-	"rose-pine/neovim", 
+	"rose-pine/neovim",
 	name = "rose-pine",
 	config = function()
 		vim.cmd("colorscheme rose-pine-main")
@@ -9,3 +9,14 @@ return {
 		vim.api.nvim_set_hl(0, "NormalFloat", { bg = "none" })
 	end
 }
+
+-- https://github.com/catppuccin/nvim
+-- return {
+-- 	"catppuccin/nvim",
+-- 	lazy = false,
+-- 	name = "catppuccin",
+-- 	priority = 1000,
+-- 	config = function()
+-- 		vim.cmd.colorscheme "catppuccin"
+-- 	end
+-- }
