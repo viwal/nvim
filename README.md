@@ -25,6 +25,9 @@
 ### Telescope (fuzzy finding)
 *https://github.com/nvim-telescope/telescope.nvim*
 
+### Telescope ui select (select box for options)
+*https://github.com/nvim-telescope/telescope-ui-select.nvim*
+
 ### Treesitter
 *https://github.com/nvim-treesitter/nvim-treesitter*
 
@@ -41,3 +44,8 @@
 #### Mason LSP Config *https://github.com/williamboman/mason-lspconfig.nvim*
 
 #### Nvim LSP Config *https://github.com/neovim/nvim-lspconfig*
+
+### None LS - Linters, formatters actions
+*https://github.com/nvimtools/none-ls.nvim*
+
+*To add a new formatter/linter first install it via Mason*
