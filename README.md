@@ -52,3 +52,8 @@ This config aims to have simple, yet effective editor to code (mostly Python, Go
 *https://github.com/nvimtools/none-ls.nvim*
 
 *To add a new formatter/linter first install it via Mason*
+
+TODO:
+- autocompletion
+- fully test with python
+- fully test with Go
