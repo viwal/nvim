@@ -3,6 +3,13 @@
 This config aims to have simple, yet effective editor to code (mostly Python, Golang)
 
 
+## Prerequirements
+- golang installed
+- python installed
+
+Note: If you don't want to use any mentioned, remove all the requirements from Lazy plugin (mainly Mason). 
+
+
 ## Basics
 1. Install Nvim `brew install nvim`
 2. Clone this repo into `~/.config/nvim` folder
@@ -55,5 +62,7 @@ This config aims to have simple, yet effective editor to code (mostly Python, Go
 
 TODO:
 - autocompletion
+- debugging
+- git integration
 - fully test with python
 - fully test with Go
