@@ -61,6 +61,7 @@ Note: If you don't want to use any mentioned, remove all the requirements from L
 *To add a new formatter/linter first install it via Mason*
 
 TODO:
+- add remaps and option (https://github.com/nvim-lua/kickstart.nvim/blob/master/init.lua)
 - autocompletion
 - debugging
 - git integration
